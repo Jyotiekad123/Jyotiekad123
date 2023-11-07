@@ -1,4 +1,4 @@
-![logo] (https://github.com/Jyotiekad123/Jyotiekad123/blob/main/Brown%20Transparent%20Minimalist%20Personal%20Profile%20New%20LinkedIn%20Banner%20(1).png)
+![logo](https://github.com/Jyotiekad123/Jyotiekad123/blob/main/Brown%20Transparent%20Minimalist%20Personal%20Profile%20New%20LinkedIn%20Banner%20(1).png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Jyoti Ekad</h1>
 <h3 align="center">A passionate Programmer from India.</h3>
